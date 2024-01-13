@@ -1,10 +1,4 @@
-# 基于SSM的新闻管理系统
-
-## 获取方式
-
-扫描下方，回复关键词  ：**新闻2** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+# 基于SSM的新闻管理系统2
 
 ## 1、项目介绍
 
@@ -35,33 +29,30 @@
 
 ### 4.1 登录注册
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208092250759.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202208092250759.jpg)
 
-![注册](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208092250640.jpg)
+![注册](https://www.codeshop.fun/Typora-Images/202208092250640.jpg)
 
 ### 4.2 用户模块
 
-![用户-首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208092250001.jpg)
+![用户-首页](https://www.codeshop.fun/Typora-Images/202208092250001.jpg)
 
-![用户-新闻详情及评论](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208092250463.jpg)
+![用户-新闻详情及评论](https://www.codeshop.fun/Typora-Images/202208092250463.jpg)
 
-![用户-个人中心](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208092250618.jpg)
+![用户-个人中心](https://www.codeshop.fun/Typora-Images/202208092250618.jpg)
 
 ### 4.3 管理员模块
 
-![管理员-新闻管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208092250823.jpg)
+![管理员-新闻管理](https://www.codeshop.fun/Typora-Images/202208092250823.jpg)
 
-![管理员-评论管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208092250393.jpg)
+![管理员-评论管理](https://www.codeshop.fun/Typora-Images/202208092250393.jpg)
 
-![管理员-用户列表](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208092250403.jpg)
+![管理员-用户列表](https://www.codeshop.fun/Typora-Images/202208092250403.jpg)
 
-![添加文章](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208092250832.jpg)
+![添加文章](https://www.codeshop.fun/Typora-Images/202208092250832.jpg)
 
-## 5、获取方式
+## 获取方式
 
-扫描下方，回复关键词  ： **新闻2**，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**新闻**，查看导入教程视频、sql脚本和源码等
 
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
